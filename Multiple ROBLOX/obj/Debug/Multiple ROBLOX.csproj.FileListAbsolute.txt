@@ -1,0 +1,8 @@
+C:\Users\freja\Desktop\a\Multiple ROBLOX\bin\Debug\Multiple ROBLOX.exe.config
+C:\Users\freja\Desktop\a\Multiple ROBLOX\bin\Debug\Multiple ROBLOX.exe
+C:\Users\freja\Desktop\a\Multiple ROBLOX\bin\Debug\Multiple ROBLOX.pdb
+C:\Users\freja\Desktop\a\Multiple ROBLOX\obj\Debug\Multiple ROBLOX.csproj.AssemblyReference.cache
+C:\Users\freja\Desktop\a\Multiple ROBLOX\obj\Debug\Multiple ROBLOX.csproj.SuggestedBindingRedirects.cache
+C:\Users\freja\Desktop\a\Multiple ROBLOX\obj\Debug\Multiple ROBLOX.csproj.CoreCompileInputs.cache
+C:\Users\freja\Desktop\a\Multiple ROBLOX\obj\Debug\Multiple ROBLOX.exe
+C:\Users\freja\Desktop\a\Multiple ROBLOX\obj\Debug\Multiple ROBLOX.pdb
